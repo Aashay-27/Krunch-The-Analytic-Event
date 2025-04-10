@@ -24,7 +24,7 @@ A2B is seeking a comprehensive solution to optimize its supply chain for sweets 
 ****Our Unique Approach****
 
 Data Integration & Analysis
-Combined and analyzed 12 months of data from 4 key A2B locations, identifying trends, seasonality, and performance bottlenecks.
+Combined and analyzed 12 months of data from 2 key A2B locations, identifying trends, seasonality, and performance bottlenecks.
 
 **Detailed Notebook Analysis**
 
